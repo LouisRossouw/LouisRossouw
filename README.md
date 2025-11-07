@@ -5,11 +5,4 @@
 </p>
 
 Currently building:
-![splash-2](https://github.com/user-attachments/assets/8717de27-2316-4251-a311-ee9ad6cbc7f6)
-
--
 ![splash-4-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f21db221-67ba-4fcf-9bd5-59ffd0601484)
-
-
--
-![splash-4-ezgif com-video-to-gif-converter (3)](https://github.com/user-attachments/assets/42a5d1a8-6f33-4beb-998b-bfa5e1781ef5)
