@@ -4,8 +4,7 @@
   <img src="https://github.com/user-attachments/assets/c56cb13e-fab7-40e0-bbc2-29f185c8d693" width="10%">
 </p>
 
-<p align="center">
 Currently building:
-
-  <img src="https://github.com/user-attachments/assets/f21db221-67ba-4fcf-9bd5-59ffd0601484" width="10%">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f21db221-67ba-4fcf-9bd5-59ffd0601484" width="100%">
 </p>
