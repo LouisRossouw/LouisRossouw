@@ -6,5 +6,6 @@
 
 <p align="center">
 Currently building:
-![splash-4-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f21db221-67ba-4fcf-9bd5-59ffd0601484)
+
+  <img src="https://github.com/user-attachments/assets/f21db221-67ba-4fcf-9bd5-59ffd0601484" width="10%">
 </p>
